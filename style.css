@@ -1,0 +1,173 @@
+body    {
+    margin: 0;
+}
+header {
+    background-color: white;
+
+}
+.logo   {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    
+    float: left;
+    
+    margin-bottom: 150px;
+    
+    
+}
+
+.nav    {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+
+    float: right;
+
+    margin-bottom: 150px;
+   
+    
+}
+
+.clearfix {
+    clear: both;
+} 
+
+.page   {
+    background-color: violet;
+}
+.box    {
+    background-color: tomato;
+    width: 200px;
+    height: 200px;
+
+    float: left;
+    margin-bottom: 150px;
+}
+
+.nextboxes1  {
+    background-color: rgb(145, 35, 145);
+    width: 100px;
+    height: 100px;
+    margin-left: 5px;
+
+    margin-bottom: 150px;
+    float: left;
+}
+
+.nextboxes2  {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    margin-left: 5px;
+
+    margin-bottom: 150px;
+    float: left;
+}
+
+.nextboxes3 {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    margin-left: 5px;
+
+    margin-bottom: 150px;
+    float: left;
+}
+.nextboxes4{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    margin-left: 5px;
+
+    margin-bottom: 150px;
+    float: left;
+}
+
+.boxlargeleft {
+    width: 400px;
+    height: 400px;
+    background-color: tomato;
+    margin-left: 10px;
+    float: left;
+    margin-bottom: 150px;
+
+}
+
+.boxlargeright1  {
+    width: 400px;
+    height: 400px;
+    background-color: yellow;
+    margin-left: 10px;
+    border: 5px solid blue;
+    margin-bottom: 150px;
+    float: left;
+}
+.boxlargeright2 {
+    width: 400px;
+    height: 400px;
+    background-color: green;
+    margin-left: 10px;
+    border: 5px solid blue;
+    margin-bottom: 150px;
+    float: right;
+    
+}
+.boxlargemain   {
+    float: right;
+}
+:nth-child(1) {
+    margin-left: 0;
+}
+.mainbox    {
+    margin: auto;
+    
+    width: 1500px;
+    height: 1500px;
+}
+
+.box1   {
+    width: 50%;
+    height: 50%;
+    background-color: red;
+    float: left;
+}
+
+.box2   {
+    width: 50%;
+    height: 50%;
+    float: right;
+}
+
+.box3   {
+    width: 600px;
+    height: 200px;
+    background-color: forestgreen;
+    float: left;
+    margin-bottom: 60px;
+    margin-left: 60px;
+    margin-top: 60px;
+}
+.box4   {
+    width: 600px;
+    height: 200px;
+    background-color: blue;
+    float: left;
+    margin-bottom: 60px;
+    margin-left: 60px;
+    margin-top: 60px;
+}
+
+.lastbox    {
+    float: right;
+    
+    width: 1500px;
+    height: 1500px;
+}
+
+.mainboxlast    {
+    float:right;
+    
+    width: 1500px;
+    height: 1500px;
+}
